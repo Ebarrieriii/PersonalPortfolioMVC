@@ -130,10 +130,14 @@
   <ItemGroup>
     <Content Include="Content\img\apple-touch-icon.png" />
     <Content Include="Content\img\bg.jpg" />
+    <Content Include="Content\img\christopher-gower-m_HRfLhgABo-unsplash.jpg" />
+    <Content Include="Content\img\fate.jpg" />
+    <Content Include="Content\img\fate2.jpg" />
     <Content Include="Content\img\favicon-16x16.png" />
     <Content Include="Content\img\favicon.png" />
     <Content Include="Content\img\FED1.jpg" />
     <Content Include="Content\img\image %282%29.png" />
+    <Content Include="Content\img\public.png" />
     <Content Include="Content\img\image.png" />
     <Content Include="Content\img\me.jpg" />
     <Content Include="Content\img\pexels-luis-gomes-546819.jpg" />
@@ -149,6 +153,7 @@
     <Content Include="Content\img\portfolio\portfolio-details-1.jpg" />
     <Content Include="Content\img\portfolio\portfolio-details-2.jpg" />
     <Content Include="Content\img\portfolio\portfolio-details-3.jpg" />
+    <Content Include="Content\img\sat.jpg" />
     <Content Include="Content\img\Screenshot %284%29.png" />
     <Content Include="Content\img\Screenshot %286%29.png" />
     <Content Include="Content\img\Screenshot %288%29.png" />
@@ -157,11 +162,13 @@
     <Content Include="Content\img\testimonials\Clyde-fixed.jpg" />
     <Content Include="Content\img\testimonials\jordan-fixed.jpg" />
     <Content Include="Content\img\testimonials\Taylor-fixed.jpg" />
+    <Content Include="Content\img\testimonials\Taylor.jpg" />
     <Content Include="Content\img\testimonials\testimonials-1.jpg" />
     <Content Include="Content\img\testimonials\testimonials-2.jpg" />
     <Content Include="Content\img\testimonials\testimonials-3.jpg" />
     <Content Include="Content\img\testimonials\testimonials-4.jpg" />
     <Content Include="Content\img\testimonials\testimonials-5.jpg" />
+    <Content Include="Content\img\testimonials\Wes.jpg" />
     <Content Include="Content\style.css" />
     <Content Include="Content\vendor\bootstrap\css\bootstrap-grid.css" />
     <Content Include="Content\vendor\bootstrap\css\bootstrap-grid.min.css" />
@@ -206,6 +213,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Content\Technical Resume.pdf" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
@@ -213,7 +221,9 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\main.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
